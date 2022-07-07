@@ -3,7 +3,7 @@
 ## CS
 ### ✏️ 운영체제
 
-- [프로세스와 스레드]
+- [프로세스와 스레드] (https://github.com/tommysgit/TIL/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20c226d1a9524942dd838201dce4de6a39.md)
 - [프로세스 주소 공간]
 - [인터럽트]
 - [시스템 콜]
