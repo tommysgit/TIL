@@ -3,7 +3,7 @@
 ## CS
 ### ✏️ 운영체제
 
-- [프로세스와 스레드] (https://github.com/tommysgit/TIL/blob/main/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20c226d1a9524942dd838201dce4de6a39.md)
+- [프로세스와 스레드](Operating System/프로세스 c226d1a9524942dd838201dce4de6a39.md)
 - [프로세스 주소 공간]
 - [인터럽트]
 - [시스템 콜]
@@ -20,7 +20,7 @@
 
 ### ✏️ 컴퓨터 네트워크
 
-- [OSI 7계층]
+- [OSI 7계층](Operating System/프로세스 c226d1a9524942dd838201dce4de6a39.md)
 - [TCP 3 & 4 way handshake]
 - [TCP/IP 흐름제어 & 혼잡제어]
 - [UDP]
@@ -32,7 +32,7 @@
 
 ### ✏️ 데이터 베이스
 
-- [키]
+- [키](Database/키 81dd2bedbbc34417a849035b07172756.md)
 - [조인]
 - [SQL Injection]
 - [SQL vs NoSQL]
@@ -46,7 +46,7 @@
 
 ### ✏️ 웹
 
-- [브라우저 동작 방법]
+- [브라우저 동작 방법](Web/브라우저 동작원리.md)
 - [HTTP Status Code]
 - [REST API]
 - [Web Server와 WAS]
