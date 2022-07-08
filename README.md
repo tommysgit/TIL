@@ -21,7 +21,7 @@
 ### ✏️ 컴퓨터 네트워크
 
 - [OSI 7계층](https://github.com/tommysgit/TIL/blob/f37de20c2b8ae42c1d3702e9e1a97a402b531884/Network/OSI%207%EA%B3%84%EC%B8%B5%207e19773d2f5e45ce8bd5d11617c20bc3.md)
-- [TCP 3 & 4 way handshake]
+- [TCP 3 & 4 way handshake](https://github.com/tommysgit/TIL/blob/0594c8a5a08f40517271a855b2e5ad6f1d8adc01/Network/3%20Way%20Handshake%20&%204%20Way%20Handshake%20bfc912c39a8a41ca9cb5873cfc08825c.md)
 - [TCP/IP 흐름제어 & 혼잡제어]
 - [UDP]
 - [대칭키 & 공개키]
