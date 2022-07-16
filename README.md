@@ -33,7 +33,7 @@
 ### ✏️ 데이터 베이스
 
 - [키](https://github.com/tommysgit/TIL/blob/f37de20c2b8ae42c1d3702e9e1a97a402b531884/Database/%ED%82%A4%2081dd2bedbbc34417a849035b07172756.md)
-- [조인]
+- [조인](https://github.com/tommysgit/TIL/blob/e609009aa9ba65301f4c569df70b0baa84cfbba5/Database/%EC%A1%B0%EC%9D%B8%20c476c72d611d4accbb11b5f67e8a8541.md)
 - [SQL Injection]
 - [SQL vs NoSQL]
 - [이상]
