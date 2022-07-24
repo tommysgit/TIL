@@ -5,8 +5,7 @@
 
 - [프로세스와 스레드](https://github.com/tommysgit/TIL/blob/f37de20c2b8ae42c1d3702e9e1a97a402b531884/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20c226d1a9524942dd838201dce4de6a39.md)
 - [프로세스 주소 공간](https://github.com/tommysgit/TIL/blob/297dce75f173b1e2e54efe6c3a9c0fbeede4180d/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84%20aabb796b49534bc6a23454b7f2257392.md)
-- [인터럽트]
-- [시스템 콜]
+- [인터럽트 & 시스템 콜](https://github.com/tommysgit/TIL/blob/94b6ca52eb3a7fd64d7f0cc786374f9c21a8f9cd/Operating%20System/Interrupt%20&%20System%20Call%20b0df697c46624956a86307519b7d7137.md)
 - [PCB와 Context Switching]
 - [IPC]
 - [CPU 스케줄링]
