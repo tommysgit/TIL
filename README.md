@@ -48,7 +48,7 @@
 - [브라우저 동작 방법](https://github.com/tommysgit/TIL/blob/e273b97cb3c97ff9b66d757df0f68e79b1c6ee50/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md)
 - [HTTP Status Code]
 - [REST API]
-- [Web Server와 WAS]
+- [Web Server와 WAS](https://github.com/tommysgit/TIL/blob/55a0ff3270dbb5d619a4cdb75947973e765d13da/Web/Web%20Server%EC%99%80%20WAS%20954069de9f8a49a59eeadf7176b3b432.md)
 - [OAuth]
 - [JWT]
 - [인증 방식]
