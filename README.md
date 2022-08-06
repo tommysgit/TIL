@@ -25,7 +25,7 @@
 - [UDP](https://github.com/tommysgit/TIL/blob/3fd748503039082cc7c1349e6d9d5f22b090dd2b/Network/UDP%208f7e0bc8225348be87350e465bacc138.md)
 - [대칭키 & 공개키](https://github.com/tommysgit/TIL/blob/6aad2584bc3718ca7b149f175a27bc6b44927941/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20&%20%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4%20d567c8466dc14588b1ae1fa26bc0cc1f.md)
 - [HTTP & HTTPS](https://github.com/tommysgit/TIL/blob/ff13bd4ac5cf1bc0f6fe3248cd219372fc8f12fa/Network/Http%20&%20Https%20af050f567b374f3ebc8b29ce010604e2.md)
-- [TLS/SSL HandShake]
+- [TLS/SSL HandShake] (https://github.com/tommysgit/TIL/blob/8de8242a47afa2528a4be287f4419a277d751a97/Network/TLS%20SSL%20Handshake%20edac4289bd014acd916bd0571ac0ce6c.md)
 - [로드밸런싱]
 - [블로킹/논블로킹 & 동기/비동기]
 
