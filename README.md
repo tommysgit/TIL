@@ -59,3 +59,6 @@
 - [PWA]
 - [CSRF & XSS]
 
+### ✏️ JAVA
+
+- [JVM]
