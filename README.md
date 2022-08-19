@@ -7,11 +7,10 @@
 - [프로세스 주소 공간](https://github.com/tommysgit/TIL/blob/297dce75f173b1e2e54efe6c3a9c0fbeede4180d/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84%20aabb796b49534bc6a23454b7f2257392.md)
 - [인터럽트 & 시스템 콜](https://github.com/tommysgit/TIL/blob/94b6ca52eb3a7fd64d7f0cc786374f9c21a8f9cd/Operating%20System/Interrupt%20&%20System%20Call%20b0df697c46624956a86307519b7d7137.md)
 - [PCB와 Context Switching](https://github.com/tommysgit/TIL/blob/6aad2584bc3718ca7b149f175a27bc6b44927941/Operating%20System/PCB%20&%20Context%20Switching%20d4197326e9594ea5b67c0911407d9362.md)
-- [IPC]
-- [CPU 스케줄링]
-- [데드락]
-- [Race Condition]
-- [세마포어 뮤텍스]
+- [IPC](https://github.com/tommysgit/TIL/blob/3541702210b24f41f3e9870e2590282717fa9c68/Operating%20System/IPC%203675e48f228c45cba77ce625e4de2668.md)
+- [CPU 스케줄링](https://github.com/tommysgit/TIL/blob/fd92cfde803526655c1c522af1906e628fe0e1df/Operating%20System/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%206467baa2bd65401eac459c353ed7f806.md)
+- [데드락](https://github.com/tommysgit/TIL/blob/3541702210b24f41f3e9870e2590282717fa9c68/Operating%20System/%EB%8D%B0%EB%93%9C%EB%9D%BD%200032a068dd0b4735904772c291ddae39.md)
+- [동기화](https://github.com/tommysgit/TIL/blob/fd92cfde803526655c1c522af1906e628fe0e1df/Operating%20System/%EB%8F%99%EA%B8%B0%ED%99%94%20b41d6a041ca847ae8230ecad7a526d74.md)
 - [페이징, 세그멘테이션]
 - [페이징 교체 알고리즘]
 - [메모리]
