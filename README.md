@@ -61,10 +61,11 @@
 ### ✏️ JAVA
 
 - [JVM](https://github.com/tommysgit/TIL/blob/a7cedca76f872937be61afb611a7269633d25bee/JAVA/JVM%20fc7627171e224db6b09b74a158af3eb3.md)
-
+- [OOP](https://github.com/tommysgit/TIL/blob/bb803e36f2ba293e43dcd1decb5d68436b08ec8f/JAVA/OOP%20544fab46b0f7483282b39193b8d68852.md)
 
 ### ✏️ JPA
 
 - [ORM](https://github.com/tommysgit/TIL/blob/4cc6e16cb8e0dab78e5af74e5bc40e32eb1b8128/JPA/ORM%201612d3aeb30a4c2fa9e872c66edfd4e9.md)
+- [JPA](https://github.com/tommysgit/TIL/blob/bb803e36f2ba293e43dcd1decb5d68436b08ec8f/JPA/JPA%20d6c1492d74224d9da572ae03c0ab57a3.md)
 - [영속성](https://github.com/tommysgit/TIL/blob/4cc6e16cb8e0dab78e5af74e5bc40e32eb1b8128/JPA/%EC%98%81%EC%86%8D%EC%84%B1%200271ec4dc6374c559fa92d40a7f1ab96.md)
 - [프록시](https://github.com/tommysgit/TIL/blob/4cc6e16cb8e0dab78e5af74e5bc40e32eb1b8128/JPA/%ED%94%84%EB%A1%9D%EC%8B%9C%2057e595154c324c2680d3bc45d05ebb56.md)
