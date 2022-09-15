@@ -35,7 +35,7 @@
 - [SQL Injection]
 - [SQL vs NoSQL](https://github.com/tommysgit/TIL/blob/d090e9743e04c0ff6babc92d6c8dc252ef2df93f/Database/SQL%20vs%20NoSQL%200ea51b8d03614e378943c42387f5e5a0.md)
 - [이상]
-- [인덱스]
+- [인덱스](https://github.com/tommysgit/TIL/blob/605c083aed54b87c3b0a756817ef8fc782f541b1/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4%205cb384c7b9da42b98aec1c2d52f571b4.md)
 - [정규화]
 - [트랜잭션]
 - [트랜잭션 격리 수준]
