@@ -37,8 +37,7 @@
 - [이상]
 - [인덱스](https://github.com/tommysgit/TIL/blob/605c083aed54b87c3b0a756817ef8fc782f541b1/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4%205cb384c7b9da42b98aec1c2d52f571b4.md)
 - [정규화]
-- [트랜잭션]
-- [트랜잭션 격리 수준]
+- [트랜잭션](https://github.com/tommysgit/TIL/blob/6a0f49f932dece1d82caee7b6738af7020db7831/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20f44dd7d37fa543feb68aa00b93dfff0e.md)
 - [레디스]
 - [저장 프로시저]
 
